@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Avoid creating -hub dir without processing images (#8334)
