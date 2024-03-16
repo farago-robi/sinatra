@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Fix TFLite INT8 for OBB (#7989)
