@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
